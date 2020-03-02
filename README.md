@@ -1,3 +1,3 @@
 # grpc-demo
 
-gRPC use example gRPC by Language：Golang、Python、PHP
+gRPC use example gRPC by languages：Golang、Python、PHP
