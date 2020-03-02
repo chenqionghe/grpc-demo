@@ -1,0 +1,13 @@
+{
+  "name": "gym",
+  "require": {
+    "grpc/grpc": "^v1.3.0",
+    "google/protobuf": "^v3.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GPBMetadata\\": "lightweight/GPBMetadata/",
+      "Lightweight\\": "lightweight/Lightweight/"
+    }
+  }
+}
