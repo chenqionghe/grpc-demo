@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "google/protobuf",
-            "version": "v3.11.4",
+            "version": "v3.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "a5001eb559dcaac0bf6d8c7edc52b3828c618185"
+                "reference": "758a0ef01c7bdf20d7ff31295d2af872547cc072"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/a5001eb559dcaac0bf6d8c7edc52b3828c618185",
-                "reference": "a5001eb559dcaac0bf6d8c7edc52b3828c618185",
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/758a0ef01c7bdf20d7ff31295d2af872547cc072",
+                "reference": "758a0ef01c7bdf20d7ff31295d2af872547cc072",
                 "shasum": ""
             },
             "require": {
@@ -45,7 +45,7 @@
             "keywords": [
                 "proto"
             ],
-            "time": "2020-02-14T22:17:05+00:00"
+            "time": "2021-02-18T22:06:03+00:00"
         },
         {
             "name": "grpc/grpc",
@@ -96,5 +96,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
